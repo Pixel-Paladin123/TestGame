@@ -1,9 +1,5 @@
-# binjgb
-
-Fork of binji's Game Boy emulator built as a WebAssembly module.
-
-It includes changes from [Daid's fork](https://github.com/daid/binjgb) and others to better support GB Studio.
-
+A Test game I created while attending a 2 day game dev course where we covered general game design and planning, Sprite creation and scene creation and was tasked to produce a game by the end of the course that included a minimum of 2 scenes and 2 quests.
+Objective: Get back the sweet roll taken from you by the duck by following instructions from the locals  
 ## License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
